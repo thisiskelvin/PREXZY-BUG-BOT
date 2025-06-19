@@ -3,7 +3,7 @@
 //Instagram: prexzy.ay
 //Telegram: t.me/prexzyvilla_tech
 //GitHub: @Prexzybooster
-//WhatsApp: +2349159895444
+//WhatsApp: +2348038155776
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Prexzyvilla
 
 require('./settings')
